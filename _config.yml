@@ -39,8 +39,8 @@ baseurl: "/automatic-dollop" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: emwdx
+    github: emwdx
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -101,7 +101,7 @@ plugins:
 paginate: 15
 paginate_path: /page:num/
 
-remote_theme: jekyll/minima
+remote_theme: pages-themes/primer@v0.2.0
 
 titles_from_headings:
   enabled:     true
